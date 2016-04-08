@@ -1,0 +1,26 @@
+///////////////////////////
+////Customizable values
+///////////////////////////
+
+// This color is used to generate the scheme
+$seed-color: #578562 !default;
+
+//// Color wheel positions
+///////////////////////////
+
+// Uncomment the color wheel you want to use
+
+// Accented analogue (default)
+$wheel_pos1:45 !default; $wheel_pos2:315 !default; $wheel_pos3:180 !default;
+
+// Tetrad
+//$wheel_pos1:30 !default; $wheel_pos2:180 !default; $wheel_pos3:210 !default;
+
+// Triad
+//$wheel_pos1:120 !default; $wheel_pos2:240 !default; $wheel_pos3:0 !default;
+
+// Compliment
+//$wheel_pos1:180 !default; $wheel_pos2:0 !default; $wheel_pos3:180 !default;
+
+// Monochrome
+//$wheel_pos1:8 !default; $wheel_pos2:352 !default; $wheel_pos3:0 !default;

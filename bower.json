@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-1pxdeep",
+  "description": "1pxdeep integration for Bootstrap 4, based on relative color design.",
+  "keywords": [
+    "bootstrap",
+    "css",
+    "sass",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://github.com/bassjobsen/bootstrap-1pxdeep/",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "moduleType": "globals",
+  "main": [
+    "scss/_core.scss"
+ ],
+  "dependencies": {
+    "bootstrap": "4.0"
+  }
+}

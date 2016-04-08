@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-1pxdeep",
+  "version": "0.0.1",
+  "description": "1pxdeep integration for Bootstrap 4, based on relative color design.",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "autoprefixer": "^6.0.3",
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-postcss": "^0.7.0",
+    "grunt-sass": "^1.0.0",
+    "load-grunt-tasks": "~3.4.0",
+    "mq4-hover-shim": "^0.3.0",
+    "time-grunt": "^1.3.0"
+  },
+  "engines": {
+    "node": ">=0.10.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bassjobsen/bootstrap-1pxdeep.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bassjobsen/bootstrap-1pxdeep/issues",
+    "email": "bass@w3masters.nl"
+  },
+  "author": "Bass Jobsen <bass@w3masters.nl> (http://bassjobsen.weblogs.fm)",
+  "license": "Apache-2.0",
+  "private": true
+}

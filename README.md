@@ -38,10 +38,10 @@ Here are some ways to customize:
 
 Installing via npm (recommended) or bower, customizing 1pxdeep is a breeze.
 
-    - Add `bootstrap-1pxdeep` as a dependency to your `package.json` or your `bower.json`
-    - `npm install` OR `bower install` depending on your tool of choice
-    - Add either `node_module`s or `bower_components` in the `includePaths` for your grunt-sass, gulp-sass, or equivalent configurations so you are able to import without specifying the full path of the resource.
-    - In your application’s SCSS, redefine any customized variable before `@importing` bootstrap-1pxdeep. For example:
+- Add `bootstrap-1pxdeep` as a dependency to your `package.json` or your `bower.json`
+- `npm install` OR `bower install` depending on your tool of choice
+- Add either `node_module`s or `bower_components` in the `includePaths` for your grunt-sass, gulp-sass, or equivalent configurations so you are able to import without specifying the full path of the resource.
+- In your application’s SCSS, redefine any customized variable before `@importing` bootstrap-1pxdeep. For example:
 
 ```css
 $seed-color: tomato;
